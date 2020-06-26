@@ -1,0 +1,6 @@
+module Pods_kopfrechnen {
+  umbrella header "Pods-kopfrechnen-umbrella.h"
+
+  export *
+  module * { export * }
+}
